@@ -14,6 +14,7 @@ public class Delimiters {
         System.out.println("\t Strings are : "+ str1 +" "+str2);
 
         // nextLine() delimiters because it puts next break line into place
+        // Trap excluded from the next line
         scan.nextLine();
 
         // nextLine() reads the whole line from the input Line without skipping any whitespace

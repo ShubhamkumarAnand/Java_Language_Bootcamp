@@ -17,11 +17,19 @@ public class Parameters {
         System.out.println(waiterTip);
     }
 
-    /*
-    * Doc Comments
-    * The following code calculates BMI of the person using the person's weight and height
-    */
 
+    /*
+    * Function Name: calculateBMI
+    *
+    * @param weight
+    * @param height
+    * @return BMI
+    *
+    * Inside the Function
+    *   - check if the height is less tan 2m
+    *   - check if the weight is more than 10kg
+    *   - Calculate the BMI value and returns it
+    * */
     public static double calculateBMI(double weight, double height){
         if(weight < 10 && height > 2 ){
             System.out.println("Invalid weight ans height values");

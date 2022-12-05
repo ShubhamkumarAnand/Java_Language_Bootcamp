@@ -1,4 +1,4 @@
-package org.imskanand.Basic.SectionFour;
+package org.imskanand.ModuleIOne.SectionFour;
 
 import java.util.Scanner;
 

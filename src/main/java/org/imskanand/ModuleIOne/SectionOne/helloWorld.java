@@ -1,4 +1,4 @@
-package org.imskanand.Basic.SectionOne;
+package org.imskanand.ModuleIOne.SectionOne;
 
 public class helloWorld {
     public static void main(String[] args) {

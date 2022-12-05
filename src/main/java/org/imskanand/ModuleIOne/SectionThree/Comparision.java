@@ -1,4 +1,4 @@
-package org.imskanand.Basic.SectionThree;
+package org.imskanand.ModuleIOne.SectionThree;
 
 public class Comparision {
     public static void main(String[] args) {

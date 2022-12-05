@@ -1,4 +1,4 @@
-package org.imskanand.Basic.SectionTwo;
+package org.imskanand.ModuleIOne.SectionTwo;
 
 public class TypeCasting {
     public static void main(String[] args) {
